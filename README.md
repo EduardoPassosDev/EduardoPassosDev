@@ -2,9 +2,7 @@
 
 <h1 align="center">Olá, eu sou o Eduardo Passos 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/EduardoPassosDev/EduardoPassosDev/blob/main/assets/banner-github.png" alt="Banner" width="80%"/>
-</p>
+
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, inovação e soluções criativas.<br>
@@ -15,12 +13,14 @@
 
 ### 🚀 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Laravel-333333?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/-Spring-333333?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker"/>
+</p>
 <!-- Adicione ou remova tecnologias conforme necessário -->
 
 ---

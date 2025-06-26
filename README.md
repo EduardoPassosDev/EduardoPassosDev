@@ -37,8 +37,8 @@
 ### ✉️ &nbsp;Contato
 
 <p align="left">
-  <a href="mailto:eduardopassos.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eduardopassosdev/"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:duducauepo@hotmail.com"><img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/eduardopassosdev/](http://www.linkedin.com/in/eduardocpo)"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/EduardoPassosDev"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github"/></a>
 </p>
 

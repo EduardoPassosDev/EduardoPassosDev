@@ -1,73 +1,119 @@
-<!-- README Profissional - Java Backend -->
+# 👨‍💻 Eduardo Passos — Backend Java Developer
 
-<h1 align="center">Olá, eu sou o Eduardo Passos 👋</h1>
+Desenvolvedor **Backend Java** com foco em **Spring Boot**, APIs REST e boas práticas.  
+Crio aplicações bem estruturadas, com código limpo, fácil de entender e pensado para cenários reais de produção.
 
-<p align="center">
-  Desenvolvedor Backend com foco em <strong>Java e Spring Boot</strong>.<br>
-  Construo APIs REST bem estruturadas, com código limpo, boas práticas e foco em negócio.
-</p>
+🌐 Portfólio online:  
+👉 https://www.eduardopassos.dev/
 
 ---
 
 ## 🧠 Sobre mim
 
-- ☕ Desenvolvedor **Java Backend**
-- 🧩 Foco em **APIs REST**, arquitetura limpa e código fácil de manter
-- 📚 Estudando constantemente **Spring Boot, JPA/Hibernate, Docker e boas práticas**
-- 🎯 Objetivo: crescer como desenvolvedor e entregar soluções simples, claras e eficientes
+- ☕ Desenvolvedor Backend Java
+- 🌱 Foco em Spring Boot e arquitetura em camadas
+- 🧩 Experiência com mensageria, versionamento de banco e Docker
+- 📚 Sempre buscando escrever código simples, claro e bem explicado
+- 🎯 Objetivo: atuar como Desenvolvedor Java Backend
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-333333?style=for-the-badge&logo=spring"/>
-  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Maven-333333?style=for-the-badge&logo=apache-maven"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker"/>
-</p>
+### 📅 Mini Agendamento API
+🔗 https://github.com/EduardoPassosDev/miniagendamento
 
----
+API REST para gerenciamento de agendamentos, simulando um sistema real de marcação de horários.
 
-## 🏗️ O que você vai encontrar nos meus repositórios
+#### Tecnologias e conceitos aplicados
+- Java + Spring Boot
+- Arquitetura em camadas (Controller, Service, Repository)
+- DTOs para entrada e saída de dados
+- Validações com `@Valid`
+- JPA / Hibernate
+- Banco de dados relacional
+- **Flyway para versionamento e migração do banco de dados**
+- Boas práticas REST (status HTTP corretos)
 
-- ✅ APIs REST com **Spring Boot**
-- ✅ CRUDs bem estruturados (Controller, Service, Repository)
-- ✅ DTOs, validações (`@Valid`) e tratamento de erros
-- ✅ Integração com banco de dados (JPA / Hibernate)
-- ✅ Padrões de projeto e boas práticas
-- ✅ Projetos pensados para aprendizado e evolução profissional
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoPassosDev&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPassosDev&layout=compact&theme=github_dark"/>
-</p>
+#### O que esse projeto demonstra
+✔ Organização de código  
+✔ Controle de versão do banco  
+✔ Estrutura pronta para produção  
 
 ---
 
-## ✉️ Contato
+### 📝 To-Do List API
+🔗 https://github.com/EduardoPassosDev/todolist
 
-<p align="left">
-  <a href="mailto:duducauepo@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eduardocpo">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/EduardoPassosDev">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+API REST simples para gerenciamento de tarefas (To-Do), focada em clareza, organização e fundamentos sólidos.
+
+#### Tecnologias e conceitos aplicados
+- Java + Spring Boot
+- CRUD completo
+- DTOs e validações
+- Separação clara de responsabilidades
+- Tratamento de erros
+- Padrões REST
+
+#### O que esse projeto demonstra
+✔ Domínio dos fundamentos de backend  
+✔ Código limpo e fácil de entender  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EduardoPassosDev&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+### 📊 Relatórios — Mensageria e Processamento Assíncrono
+🔗 https://github.com/EduardoPassosDev/relatorios
 
+Sistema de geração de relatórios com processamento assíncrono, utilizando mensageria para desacoplar fluxos e envio de e-mails.
+
+#### Tecnologias e conceitos aplicados
+- Java + Spring Boot
+- **RabbitMQ para mensageria**
+- Processamento assíncrono de mensagens
+- **Integração com Mailtrap para envio de e-mails**
+- **Docker para padronização do ambiente**
+- Organização de regras de negócio
+- Separação de responsabilidades
+
+#### O que esse projeto demonstra
+✔ Arquitetura orientada a eventos  
+✔ Uso de mensageria no backend  
+✔ Integração com serviços externos  
+
+---
+
+## 🧰 Stack Principal
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🗄️ JPA / Hibernate
+- 🐘 PostgreSQL
+- 🛠️ Flyway
+- 🐰 RabbitMQ
+- 📬 Mailtrap
+- 🐳 Docker
+- 📦 Maven
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **Desenvolvedor Backend Java**, evoluindo constantemente em:
+- Arquitetura de software
+- Boas práticas
+- Testes automatizados
+- Performance
+- Sistemas escaláveis
+
+---
+
+## 📫 Contato
+
+- 🌐 Site: https://www.eduardopassos.dev/
+- 💼 LinkedIn: https://www.linkedin.com/in/eduardocpo
+- 📧 Email: duducauepo@hotmail.com
+- 🧑‍💻 GitHub: https://github.com/EduardoPassosDev
+
+---
+
+⭐ Se gostou dos projetos, fique à vontade para explorar os repositórios!
